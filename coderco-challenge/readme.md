@@ -71,7 +71,10 @@ After setting up everything, I built and ran the containers:
 ```sh
 docker-compose up --build
 
-And we're done! this is how it looks :
+```
+
+And we're done! This is how it looks:  
 
 ![Application Running Screenshot](images/Screenshot%202025-03-16%20at%2010.36.59.png)
+
 
